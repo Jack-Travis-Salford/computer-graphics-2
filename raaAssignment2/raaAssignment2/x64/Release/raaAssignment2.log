@@ -1,0 +1,36 @@
+﻿  PathGenerator.cpp
+C:\--Mine\My Files\Uni\Y3\CG\Sem2\assignment\raaOSGAssignment-template\raaAssignment2\raaAssignment2\raaAnimationPointFinder.h(4,10): fatal error C1083: Cannot open include file: 'osg/NodeVisitor': No such file or directory
+  raaAnimatedFacarde.cpp
+C:\--Mine\My Files\Uni\Y3\CG\Sem2\assignment\raaOSGAssignment-template\raaAssignment2\raaAssignment2\raaAnimatedFacarde.cpp(2,10): fatal error C1083: Cannot open include file: 'osg/MatrixTransform': No such file or directory
+  raaAnimationPathCallback.cpp
+C:\--Mine\My Files\Uni\Y3\CG\Sem2\assignment\raaOSGAssignment-template\raaAssignment2\raaAssignment2\raaAnimationPathCallback.cpp(2,10): fatal error C1083: Cannot open include file: 'osg/NodeVisitor': No such file or directory
+  raaAnimationPointFinder.cpp
+C:\--Mine\My Files\Uni\Y3\CG\Sem2\assignment\raaOSGAssignment-template\raaAssignment2\raaAssignment2\raaAnimationPointFinder.cpp(5,10): fatal error C1083: Cannot open include file: 'osg/MatrixTransform': No such file or directory
+  raaAssetLibrary.cpp
+C:\--Mine\My Files\Uni\Y3\CG\Sem2\assignment\raaOSGAssignment-template\raaAssignment2\raaAssignment2\raaAssetLibrary.cpp(2,10): fatal error C1083: Cannot open include file: 'osg/Group': No such file or directory
+  raaAssignment2.cpp
+C:\--Mine\My Files\Uni\Y3\CG\Sem2\assignment\raaOSGAssignment-template\raaAssignment2\raaAssignment2\raaAssignment2.cpp(4,10): fatal error C1083: Cannot open include file: 'osgViewer/Viewer': No such file or directory
+  raaBoundCalculator.cpp
+C:\--Mine\My Files\Uni\Y3\CG\Sem2\assignment\raaOSGAssignment-template\raaAssignment2\raaAssignment2\raaBoundCalculator.cpp(2,10): fatal error C1083: Cannot open include file: 'osg/Geode': No such file or directory
+  raaCarFacarde.cpp
+C:\--Mine\My Files\Uni\Y3\CG\Sem2\assignment\raaOSGAssignment-template\raaAssignment2\raaAssignment2\raaCarFacarde.cpp(3,10): fatal error C1083: Cannot open include file: 'osg/Group': No such file or directory
+  raaCollisionTarget.cpp
+C:\--Mine\My Files\Uni\Y3\CG\Sem2\assignment\raaOSGAssignment-template\raaAssignment2\raaAssignment2\raaCollisionTarget.h(4,10): fatal error C1083: Cannot open include file: 'osg/Vec3f': No such file or directory
+  raaFacarde.cpp
+C:\--Mine\My Files\Uni\Y3\CG\Sem2\assignment\raaOSGAssignment-template\raaAssignment2\raaAssignment2\raaFacarde.cpp(3,10): fatal error C1083: Cannot open include file: 'osg/Billboard': No such file or directory
+  raaFinder.cpp
+C:\--Mine\My Files\Uni\Y3\CG\Sem2\assignment\raaOSGAssignment-template\raaAssignment2\raaAssignment2\raaFinder.h(5,10): fatal error C1083: Cannot open include file: 'osg/NodeVisitor': No such file or directory
+  raaInputController.cpp
+C:\--Mine\My Files\Uni\Y3\CG\Sem2\assignment\raaOSGAssignment-template\raaAssignment2\raaAssignment2\raaFacarde.h(3,10): fatal error C1083: Cannot open include file: 'osg/MatrixTransform': No such file or directory
+  raaNodeCallbackFacarde.cpp
+C:\--Mine\My Files\Uni\Y3\CG\Sem2\assignment\raaOSGAssignment-template\raaAssignment2\raaAssignment2\raaNodeCallbackFacarde.h(4,10): fatal error C1083: Cannot open include file: 'osg/NodeCallback': No such file or directory
+  raaRoadTileFacarde.cpp
+C:\--Mine\My Files\Uni\Y3\CG\Sem2\assignment\raaOSGAssignment-template\raaAssignment2\raaAssignment2\raaRoadTileFacarde.cpp(3,10): fatal error C1083: Cannot open include file: 'osg/Switch': No such file or directory
+  raaSwitchActivator.cpp
+C:\--Mine\My Files\Uni\Y3\CG\Sem2\assignment\raaOSGAssignment-template\raaAssignment2\raaAssignment2\raaSwitchActivator.cpp(2,10): fatal error C1083: Cannot open include file: 'osg/Switch': No such file or directory
+  raaTrafficSystem.cpp
+C:\--Mine\My Files\Uni\Y3\CG\Sem2\assignment\raaOSGAssignment-template\raaAssignment2\raaAssignment2\raaCollisionTarget.h(4,10): fatal error C1083: Cannot open include file: 'osg/Vec3f': No such file or directory
+  TrafficLightControl.cpp
+C:\--Mine\My Files\Uni\Y3\CG\Sem2\assignment\raaOSGAssignment-template\raaAssignment2\raaAssignment2\raaNodeCallBackFacarde.h(4,10): fatal error C1083: Cannot open include file: 'osg/NodeCallback': No such file or directory
+  TrafficLightFacarde.cpp
+C:\--Mine\My Files\Uni\Y3\CG\Sem2\assignment\raaOSGAssignment-template\raaAssignment2\raaAssignment2\raaCollisionTarget.h(4,10): fatal error C1083: Cannot open include file: 'osg/Vec3f': No such file or directory
